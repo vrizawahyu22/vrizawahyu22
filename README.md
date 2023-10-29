@@ -44,7 +44,7 @@ I'm a Software Engineer from Indonesia 🇮🇩
         <td>
           <ul>
             <li>
-              Low Light Image Enhancement in License Plate Recognition using URetinex-Net and TRBA <b>(To be published)</b>
+              Low Light Image Enhancement in License Plate Recognition using URetinex-Net and TRBA <b>(Will be Published)</b>
             </li>
             <li>
               <a href="https://ieeexplore.ieee.org/abstract/document/9902925">An Efficient Load Balancing Using Genetic Algorithm in Cloud Computing</a>
@@ -61,7 +61,7 @@ I'm a Software Engineer from Indonesia 🇮🇩
         <td>
           <ul>
             <li>
-              A Systematic Literature Review of Student Assessment Framework in Software Engineering Courses <b>(To be published)</b>
+              A Systematic Literature Review of Student Assessment Framework in Software Engineering Courses <b>(Will be published)</b>
             </li>
           </ul>
         </td>
