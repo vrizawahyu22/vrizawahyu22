@@ -18,6 +18,7 @@
 ### :man_technologist: About Me :
 I'm a Software Engineer from Indonesia 🇮🇩
 - 🔭 I’m currently working as a Backend Engineer. With the principle "Keep the Services Technology-Agnostic", I built the microservices based on the purpose. Mostly, I used the language Go and Python.
+- 🪞 At the beginning of my career, I worked as a Frontend Engineer and completed several projects using React Native, Next.js, React.js, and Codeigniter. However, I am now focused on Backend Engineering.
 - ⚡ I am very passionate about Artificial Intelligence. I have completed a master's program that focuses on Computer Vision. I contribute by creating articles and academic research.
 - 🌱 I'm currently learning how to write and share effectively.
 
