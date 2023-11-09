@@ -61,7 +61,7 @@ I'm a Software Engineer from Indonesia 🇮🇩
         <td>
           <ul>
             <li>
-              <a href="[https://dl.acm.org/doi/abs/10.1145/3427423.3427441](https://www.researchgate.net/publication/375424451_A_Systematic_Literature_Review_of_Student_Assessment_Framework_in_Software_Engineering_Courses)">A Systematic Literature Review of Student Assessment Framework in Software Engineering Courses <b>(Will be published)</a>
+              <a href="https://www.researchgate.net/publication/375424451_A_Systematic_Literature_Review_of_Student_Assessment_Framework_in_Software_Engineering_Courses">A Systematic Literature Review of Student Assessment Framework in Software Engineering Courses <b></a>
               </b>
             </li>
           </ul>
